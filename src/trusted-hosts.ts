@@ -30,6 +30,8 @@ export const hostnames = [
   'news.kiwistand.com',
   'app.cashmere.exchange',
   'mainnet.cashmere.exchange',
+  'porto-react-native.ngrok.io',
+  'o.bun-alewife.ts.net',
   'alpha.intentfi.io',
   'garden.staging.btcfi.wtf',
 ]
